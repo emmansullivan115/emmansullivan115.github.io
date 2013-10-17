@@ -26,7 +26,7 @@ header {
     background-color: #6FD4BD;
     color: #ffffff;
     height: 140px;
-    border: 2px solid #000000;
+    border: 6px solid #697F7A;
         padding: 30px;
  margin: 10px;
         
@@ -56,7 +56,7 @@ header a {
 header a:link {}
 header a:visited {}
 header a:hover {
-    color: #000000;
+    color: #136F99;
 
 }
 header a:active {
@@ -74,7 +74,7 @@ article {width:760px;
 		margin-top:15px;
 		margin-bottom:5px;
 		padding:15px;
-
+        border: 8px solid #697F7A
 		}
 
 article h1 {
@@ -82,7 +82,7 @@ article h1 {
     line-height: 44px;
     margin-top: 4px;
     margin-bottom: 10px;
-    color: #000000;
+    color: #136F99;
     
 }
 
@@ -90,11 +90,19 @@ article h2 {
     font-size: 24px;
     line-height: 28px;
     margin-bottom: 10px;
+    color: #136F99;
+
+    
+}
+
+article h3 {
+    color: #136F99;
     
 }
 
 img {
-    padding: 10px;
+    padding: 12px;
+    
 }
 
 footer {
@@ -102,11 +110,11 @@ footer {
     height: 60px;
     text-align:center;
     background-color: #6FD4BD;
-    color: #ffffff;
+    color: #136F99;
     height: 54px;
-    border: 2px solid #000000;
+    border: 6px solid #697F7A;
         padding: 8px;
-    line-height:20px;
- margin: 0px;
+    line-height:16px;
+ margin: px;
 }
 
